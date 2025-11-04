@@ -2,19 +2,19 @@
 
 A simple and responsive weather application built using HTML, CSS, and JavaScript that displays real-time weather data for any city using the OpenWeatherMap API.
 
-# 🚀 Features
+## 🚀 Features
 
-🌍 Search for weather by city name
+- Search for weather by city name
 
-🌡️ Displays temperature, humidity, and wind speed
+- Displays temperature, humidity, and wind speed
 
-☁️ Dynamic weather icons (Clear, Rain, Clouds, Drizzle, Mist)
+- Dynamic weather icons (Clear, Rain, Clouds, Drizzle, Mist)
 
-⚠️ Error message for invalid city names
+- Error message for invalid city names
 
-💻 Clean, minimal, and mobile-friendly UI
+- Clean, minimal, and mobile-friendly UI
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5 — for structure
 
